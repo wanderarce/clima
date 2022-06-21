@@ -1,0 +1,29 @@
+{
+    "name": "clima",
+    "version": "1.0.0",
+    "description": "A GraphQL for",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "dev": "nodemon -r dotenv/config index.js"
+    },
+    "keywords": [
+        "temperature",
+        "GraphQL",
+        "server",
+        "data",
+        "API",
+        "testing",
+        "apollo",
+        "prototyping"
+    ],
+    "author": "Wander Arce",
+    "license": "MIT",
+    "dependencies": {
+        "apollo-server": "^2.16.0",
+        "axios": "^0.19.2",
+        "dotenv": "^8.2.0",
+        "graphql": "^15.3.0",
+        "nodemon": "^2.0.4"
+    }
+}

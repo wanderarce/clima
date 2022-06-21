@@ -1,0 +1,13 @@
+{
+
+    "main": {
+        "temp": 283.07,
+        "temp_min": 280.72,
+        "temp_max": 284.4
+    },
+
+    "timezone": 3600,
+    "id": 2643743,
+    "name": "London",
+    "cod": 200
+}
